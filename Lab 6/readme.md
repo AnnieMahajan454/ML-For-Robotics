@@ -3,7 +3,7 @@
 <img width="188" height="95" alt="image" src="https://github.com/user-attachments/assets/51fe08d4-539d-402a-a07b-5369e1210d6c" />
 
 # Sample 2
-<img width="329" height="51" alt="image" src="https://github.com/user-attachments/assets/df36bd3e-17d3-46a4-9957-554a6220e0d3" />
+<img width="731" height="463" alt="image" src="https://github.com/user-attachments/assets/a49aa159-d9e9-4210-aa65-afd2dce75f4c" />
 
 # Sample 3
 <img width="282" height="352" alt="image" src="https://github.com/user-attachments/assets/b7d6b5d9-b8e6-42fc-bc13-549592d470ad" />
@@ -24,5 +24,20 @@
 
 # Sample 8
 <img width="612" height="478" alt="image" src="https://github.com/user-attachments/assets/3723779d-c687-4736-8117-e6b50f86116d" />
+
+# Exercise 1 - A
+<img width="407" height="120" alt="image" src="https://github.com/user-attachments/assets/652b376b-f2f0-4d6f-93da-773f79d54a48" />
+
+# Exercise 1 - B
+<img width="408" height="41" alt="image" src="https://github.com/user-attachments/assets/bbb8cf8e-ddf0-472c-bd76-72d428f3e4f1" />
+
+# Exercise 2 - A
+<img width="730" height="573" alt="image" src="https://github.com/user-attachments/assets/d19be42a-b80b-4134-b0cb-162890809fe2" />
+
+# Exercise 2 - B
+<img width="724" height="571" alt="image" src="https://github.com/user-attachments/assets/e3ae9b8d-532b-4843-b29f-e9278385d695" />
+
+
+
 
 
