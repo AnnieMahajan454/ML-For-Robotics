@@ -1,4 +1,4 @@
-# Examples and Excersice Screenshots
+# Data Understanding & Variability
 
 Example 1
 ---
