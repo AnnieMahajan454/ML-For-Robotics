@@ -32,6 +32,9 @@ This lab investigates hyperparameter tuning for decision tree models to improve 
 
 This experiment compares multiple classification approaches including k-Nearest Neighbors and Logistic Regression. It introduces model evaluation beyond accuracy through ROC curves and AUC metrics to assess classifier discrimination capability. The lab strengthens understanding of distance-based learning, probabilistic classification, and threshold-independent evaluation techniques.
 
+## Lab 7 – Single Layer & Multi-Layer Perceptrons (SLP/MLP)
+
+This lab explores neural network fundamentals through the implementation of Single Layer and Multi-Layer Perceptrons. It covers perceptron learning for logical gate problems, visualization of decision boundaries, and training of MLP models for nonlinear classification tasks. Experiments include activation function comparisons, performance evaluation using real datasets, and analysis of training loss to understand convergence behavior and model capacity.
 
 ## Repository Structure
 
