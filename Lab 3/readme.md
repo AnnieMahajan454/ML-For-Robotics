@@ -28,6 +28,7 @@ Exercise 1
 ---
 <img width="580" height="58" alt="image" src="https://github.com/user-attachments/assets/3730e1c9-1805-4020-8fcc-0c1b134fedb1" />
 
+Exericse
 ---
 <img width="743" height="65" alt="image" src="https://github.com/user-attachments/assets/2079f84e-f6c8-4c94-af28-e3b0ade001ba" />
 
