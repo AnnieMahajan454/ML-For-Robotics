@@ -36,6 +36,10 @@ This experiment compares multiple classification approaches including k-Nearest 
 
 This lab explores neural network fundamentals through the implementation of Single Layer and Multi-Layer Perceptrons. It covers perceptron learning for logical gate problems, visualization of decision boundaries, and training of MLP models for nonlinear classification tasks. Experiments include activation function comparisons, performance evaluation using real datasets, and analysis of training loss to understand convergence behavior and model capacity.
 
+## Lab 8 – Hyperparameter Tuning (MLP & Linear SVM)
+
+This lab focuses on optimizing machine learning models through hyperparameter tuning. It explores Stochastic Gradient Descent (SGD) in MLP, grid search for automatic parameter selection, and implementation of Linear SVM for classification tasks. Experiments are performed on datasets such as Iris, Wisconsin Breast Cancer, Titanic, and Indian Diabetes to evaluate model performance and understand the impact of parameters like learning rate, regularization, and hidden layer configuration.
+
 ## Repository Structure
 
 Each lab directory includes:
